@@ -1,5 +1,5 @@
 Author: Christopher Bergstrom<br>
-Date created: December 18, 2015 (3rd week of program)<br>
+Date created: December 25, 2015 (3rd week of program)<br>
 Technologies: Java<br>
 How to use: First, enter how much money you brought, then enter how much of that you would like to bet. You are then shown
 your cards and one of the dealer’s cards and given the option to hit, stand, or double depending on the amount of your bet
